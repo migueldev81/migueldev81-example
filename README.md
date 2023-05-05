@@ -49,7 +49,7 @@ I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh 
 
 <td style="border: hidden" width="50%">
 <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<p align="center">Arquitectura MVVM<p>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
