@@ -43,7 +43,6 @@ I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh 
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
@@ -62,7 +61,6 @@ I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh 
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
 </div>
                                                                                        <tr>
 <td style="border: hidden" width="50%">
@@ -77,7 +75,6 @@ I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh 
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
@@ -96,7 +93,6 @@ I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh 
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
 </div>    
 </table>                                                                                 
 </div>
