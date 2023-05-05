@@ -1,3 +1,17 @@
+<!-- **mdeboute/mdeboute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel
+
+Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer.
+
+- I love nature 🎣🌲, sport 💪, guitar 🎸 and reading 📚.
+- I enjoy learning new stuff and making notes 📄.
+- I like to travel and I like to have new opportunities 🛫.
+- I'm an Open Source enthusiast 🤠.
+
+## Contact me
+[![gmail_badge]](mailto:migueldev81@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+
 ## My Stack
 <p style="display: inline-block;" align="center">
   <kbd>
