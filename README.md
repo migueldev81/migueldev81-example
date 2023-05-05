@@ -1,5 +1,6 @@
 <h1>Hi There, I am Miguel <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I'm a Software Developer.
+
+I am dedicated to the development of complete web applications. My main technologies are React.js using its Next.js framework and firebase as a backend service.
 
 <h2>Contact Me</h2>
 <p>
@@ -21,18 +22,13 @@ I'm a Software Developer.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 
-<p>Data Analysis</p>
-
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=1572B6)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=563D7C)&nbsp;
-
 <p>Database</p>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb&logoColor=4479A1)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=4479A1)&nbsp;
+
 
 ## Projects
 <p align="center">Arquitectura MVVM<p>
