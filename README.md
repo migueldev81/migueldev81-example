@@ -22,11 +22,12 @@ I am dedicated to the development of complete web applications. My main technolo
   
 ### API Courses
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=F7AE05)&nbsp;
-
 <a href="https://github.com/migueldev81/django-mysql-API_COURSES/" target="_blank"><img src="https://raw.githubusercontent.com/migueldev81/django-mysql-API_COURSES/master/resources/db-design.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
+ 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=F7AE05)&nbsp;
+  
 <p>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=3fFD7f">
@@ -35,5 +36,8 @@ I am dedicated to the development of complete web applications. My main technolo
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
+  
+
+  
 </div>
 
