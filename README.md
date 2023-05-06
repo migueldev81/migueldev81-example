@@ -27,17 +27,16 @@ I am dedicated to the development of complete web applications. My main technolo
   
 <div align="center">  
   
-### API: Courses
+### API: Ecommerce
 
-<a href="https://github.com/migueldev81/django-mysql-API_COURSES/" target="_blank"><img src="https://raw.githubusercontent.com/migueldev81/django-mysql-API_COURSES/master/resources/db-design.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/migueldev81/node-ecommerce/" target="_blank"><img src="https://raw.githubusercontent.com/migueldev81/django-mysql-API_COURSES/master/resources/db-design.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
  
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FF8000)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
   
 <p>
-<a href="https://github.com/migueldev81/django-mysql-API_COURSES/" target="_blank">
+<a href="https://github.com/migueldev81/node-ecommerce" target="_blank">
 <img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
