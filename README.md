@@ -17,8 +17,15 @@ I am dedicated to the development of complete web applications. My main technolo
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=F7AE05)&nbsp;
   
 ## Projects
-<p align="center">API Django Courses<p>
-<div align="center">                                       
+<p align="center">API Courses<p>
+  
+
+
+<div align="center">  
+  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=F7AE05)&nbsp;
+  
 <a href="https://github.com/migueldev81/django-mysql-API_COURSES/" target="_blank"><img src="https://raw.githubusercontent.com/migueldev81/django-mysql-API_COURSES/master/resources/db-design.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
