@@ -17,10 +17,11 @@ I am dedicated to the development of complete web applications. My main technolo
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=F7AE05)&nbsp;
   
 ## Projects
-### API Courses
   
 <div align="center">  
   
+### API Courses
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=F7AE05)&nbsp;
 <p>
