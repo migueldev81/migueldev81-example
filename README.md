@@ -14,7 +14,8 @@ I am dedicated to the development of complete web applications. My main technolo
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FF8000)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 
 <p>FRONT-END Development</p>
@@ -29,7 +30,7 @@ I am dedicated to the development of complete web applications. My main technolo
   
 ### API: Ecommerce
 
-<a href="https://github.com/migueldev81/node-ecommerce/" target="_blank"><img src="https://raw.githubusercontent.com/migueldev81/django-mysql-API_COURSES/master/resources/db-design.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/migueldev81/node-ecommerce/" target="_blank"><img src="https://e0.pxfuel.com/wallpapers/36/75/desktop-wallpaper-node-js-how-to-a-make-rest-api-part-1-dev-to.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
  
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
