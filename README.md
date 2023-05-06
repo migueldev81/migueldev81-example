@@ -17,7 +17,7 @@ I am dedicated to the development of complete web applications. My main technolo
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FF8000)&nbsp;
 
 
-<p>Front-end Development</p>
+<p>FRONT-END Development</p>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -27,7 +27,7 @@ I am dedicated to the development of complete web applications. My main technolo
   
 <div align="center">  
   
-### API Courses
+### API: Courses
 
 <a href="https://github.com/migueldev81/django-mysql-API_COURSES/" target="_blank"><img src="https://raw.githubusercontent.com/migueldev81/django-mysql-API_COURSES/master/resources/db-design.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
