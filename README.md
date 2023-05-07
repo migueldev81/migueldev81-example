@@ -53,6 +53,20 @@ I dedicate myself to Web Development and programming in general.
 </a>
 </p>
   
+ ### Web: Ecommerce
+
+<a href="https://github.com/migueldev81/wordpress-ecommerce/" target="_blank"><img src="https://wallpapercave.com/wp/wp6905445.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+ 
+![Wordpress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+
+  
+<p>
+<a href="https://github.com/migueldev81/wordpress-ecommerce" target="_blank">
+<img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
 
   
 </div>
