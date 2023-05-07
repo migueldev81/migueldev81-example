@@ -20,6 +20,8 @@ I dedicate myself to Web Development and programming in general.
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+ ![Wordpress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+
   
 ## Projects
   
