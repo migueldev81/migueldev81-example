@@ -42,6 +42,20 @@ I am dedicated to the development of complete web applications. My main technolo
 </a>
 </p>
   
+### API: Courses
+
+<a href="https://github.com/migueldev81/django-courses/" target="_blank"><img src="https://assets-global.website-files.com/5b6901669b93d7837e36dc4c/615e1104ffbf5ae592265cc7_python-django.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+ 
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+  
+<p>
+<a href="https://github.com/migueldev81/django-courses" target="_blank">
+<img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+  
 
   
 </div>
