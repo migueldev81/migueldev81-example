@@ -1,7 +1,8 @@
 <h1>Hi There, I am Miguel <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am dedicated to the development of complete web applications. My main technologies are React.js using its Next.js framework and firebase as a backend service.
-* Software Technician, Universidad de Trabajo del Uruguay (UTU).
+I am a Software Technician graduated from the Universidad de Trabajo del Uruguay (UTU).
+I dedicate myself to Web Development and programming in general.
+
 <h2>Contact Me</h2>
 <p>
   <a href="mailto:migueldev81@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
