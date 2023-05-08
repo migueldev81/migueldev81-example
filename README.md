@@ -56,7 +56,7 @@ I dedicate myself to Web Development and programming in general.
 </a>
 </p>
   
- ### Web: Ecommerce
+ ### WEB: Ecommerce
 
 <a href="https://github.com/migueldev81/wordpress-ecommerce/" target="_blank"><img src="https://wallpapercave.com/wp/wp6905445.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -70,7 +70,21 @@ I dedicate myself to Web Development and programming in general.
 </a>
 </p>
   
+ ### WEB: Inventario
 
+<a href="https://github.com/migueldev81/wordpress-ecommerce/" target="_blank"><img src="https://bahiaxip.com/image/post/main/UrgQUmuePatSiP3K4CtPLCHIlv47Y7H5tt5lcKDU.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+ 
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+
+  
+<p>
+<a href="https://github.com/migueldev81/wordpress-ecommerce" target="_blank">
+<img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
   
 </div>
 
