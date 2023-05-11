@@ -11,7 +11,6 @@ I dedicate myself to Web Development and programming in general.
 
 ## My Stack
   
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
@@ -62,22 +61,6 @@ I dedicate myself to Web Development and programming in general.
 <br>
  
 ![Wordpress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
-
-  
-<p>
-<a href="https://github.com/migueldev81/wordpress-ecommerce" target="_blank">
-<img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-  
- ### WEB: Inventario
-
-<a href="https://github.com/migueldev81/wordpress-ecommerce/" target="_blank"><img src="https://bahiaxip.com/image/post/main/UrgQUmuePatSiP3K4CtPLCHIlv47Y7H5tt5lcKDU.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
- 
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-
 
   
 <p>
