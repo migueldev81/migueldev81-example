@@ -2,9 +2,9 @@
 <h2 align="center">Soy desarrollador Node.js y Typescript</h2>
 
 - 🌱 Egresado como Tecnico en Software 
-- 🌱 Desarrollo principalmente APIs con Java y Spring pero también manejo herramientas de Frontend
+- 🌱 Desarrollo principalmente APIs con Node.js y Typescript pero también manejo herramientas de Frontend
 - 🌱 HTML, CSS, JSP, Bootstrap y JS. Me estoy adentrando en  **Angular**
-- 🌱 Otras herramientas y tecnologías: Postman, Swagger, JMeter, Hibernate, MySQL
+- 🌱 Otras herramientas y tecnologías: Postman, Swagger, Grafana, MySQL
 - 
 - 📫 Podés contactarte conmigo escribiendo a **migueldev81@gmail.com**
 
