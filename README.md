@@ -47,19 +47,28 @@
 </a>
 </p>
   
-### API: Courses
+### WEB: Ecommerce
 
-<a href="https://github.com/migueldev81/django-courses/" target="_blank"><img src="https://assets-global.website-files.com/5b6901669b93d7837e36dc4c/615e1104ffbf5ae592265cc7_python-django.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/migueldev81/django-courses/" target="_blank"><img src="https://wallpapercave.com/wp/wp11846968.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
  
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
   
 <p>
 <a href="https://github.com/migueldev81/django-courses" target="_blank">
 <img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
+  
+### WEB: POS
+
+<a href="https://github.com/migueldev81/wordpress-ecommerce/" target="_blank"><img src="https://c4.wallpaperflare.com/wallpaper/801/330/425/laravel-php-code-simple-wallpaper-preview.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+ 
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![MySQL](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=mysql)&nbsp;
+
   
  ### WEB: Ecommerce
 
