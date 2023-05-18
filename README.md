@@ -1,12 +1,11 @@
 <h1 align="center">¡Hola! me llamo Miguel</h1>
-<h2 align="center">Soy desarrollador Node.js y Typescript</h2>
+<h2 align="center">Soy desarrollador</h2>
 
-- 🌱 Egresado como Tecnico en Software 
-- 🌱 Desarrollo APIs con PHP y Laravel
-- 🌱 Desarrollo APIs con Node.js y Typescript
-- 🌱 HTML, CSS, Next.js
+- 🌱 Soy egresado como Tecnico en Software 
+- 🌱 Soluciones backend con PHP/Laravel y Node.js/TypeScript
+- 🌱 Desarrollo frontend con Next.js, Tailwind CSS, Material UI
 - 🌱 Otras herramientas y tecnologías: Postman, Swagger, Grafana, MySQL
-- 
+
 - 📫 Podés contactarte conmigo escribiendo a **migueldev81@gmail.com**
 
 
