@@ -2,10 +2,6 @@
 <h2 align="center">Soy desarrollador</h2>
 
 - 🌱 Soy egresado como Tecnico en Software 
-- 🌱 Soluciones backend con PHP/Laravel y Node.js/TypeScript
-- 🌱 Desarrollo frontend con Next.js, Tailwind CSS, Material UI
-- 🌱 Otras herramientas y tecnologías: Postman, Swagger, Grafana, MySQL
-
 - 📫 Podés contactarte conmigo escribiendo a **migueldev81@gmail.com**
 
 
@@ -47,29 +43,6 @@
 <img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-  
-### WEB: Ecommerce
-
-<a href="https://github.com/migueldev81/django-courses/" target="_blank"><img src="https://wallpapercave.com/wp/wp11846968.png" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
- 
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-  
-<p>
-<a href="https://github.com/migueldev81/django-courses" target="_blank">
-<img src="https://img.shields.io/badge/Details-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-  
-### WEB: POS
-
-<a href="https://github.com/migueldev81/wordpress-ecommerce/" target="_blank"><img src="https://c4.wallpaperflare.com/wallpaper/801/330/425/laravel-php-code-simple-wallpaper-preview.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
- 
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![MySQL](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=mysql)&nbsp;
-
   
  ### WEB: Ecommerce
 
