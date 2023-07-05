@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! me llamo Miguel</h1>
-<h2 align="center">Soy desarrollador</h2>
+<h1 align="center">¡Hi! I'm Miguel</h1>
+<h2 align="center">I'm .NET/SQL Developer</h2>
 
 - 🌱 Soy egresado como Tecnico en Software 
 - 📫 Podés contactarte conmigo escribiendo a **migueldev81@gmail.com**
